@@ -2,7 +2,7 @@
  <head>
  </head>
  <body>
- 	<h2>Privacy Policy</h2> <p> Innove Apps built the Train Running Status App as an Ad Supported app. This SERVICE is provided by ArdentLabs at no cost and is intended for use as is.
+ 	<h2>Privacy Policy</h2> <p> Innove Apps built the this App as an Ad Supported app. This SERVICE is provided by Innove Apps at no cost and is intended for use as is.
  	</p> <p>This page is used to inform visitors regarding my policies with the collection, use, and
  	disclosure of Personal Information if anyone decided to use my Service.
  	</p> <p>If you choose to use my Service, then you agree to the collection and use of information in relation
@@ -10,7 +10,7 @@
  	Service. I will not use or share your information with anyone except as described
  	in this Privacy Policy.
  	</p> <p>The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible
- 	at Train Running Status App unless otherwise defined in this Privacy Policy.
+ 	at this App unless otherwise defined in this Privacy Policy.
  	</p> <p><strong>Information Collection and Use</strong></p> <p>For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Android Advertising ID. The information that I request will be retained on your device and is not collected by me in any way.</p> 
   <p>Usage of Advertising ID
 Usage. The advertising identifier must only be used for advertising and user analytics. The status of the “Opt out of Interest-based Advertising” or “Opt out of Ads Personalization” setting must be verified on each access of the ID.
